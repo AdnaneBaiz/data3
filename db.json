@@ -1,0 +1,7 @@
+
+{
+	"soldes": [
+	{"id": "0", "crediteurH": "600.00", "crediteurP": "320.00", "provision": "128.00"},
+  {"id": "1", "crediteurH": "679.00", "crediteurP": "540.00", "provision": "122.00"}
+	]
+}
