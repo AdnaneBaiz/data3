@@ -1,10 +1,21 @@
 
 {
 	"soldes": [
-	{"id": "0", "crediteurH": "600.00", "crediteurP": "320.00", "provision": "128.00"},
-  	{"id": "1", "crediteurH": "679.00", "crediteurP": "540.00", "provision": "122.00"}
+		{"id": "0", "crediteurH": "600.00", "crediteurP": "320.00", "provision": "128.00"},
+  		{"id": "1", "crediteurH": "679.00", "crediteurP": "540.00", "provision": "122.00"}
 	],
 	"consommations": [
-	{"id": "0", "Janvier": "600.00", "Février": "320.00", "Mars": "128.00", "Avril": "600.00", "Mai": "320.00", "Juin": "128.00", "Juillet": "600.00", "Août": "320.00", "Septembre": "128.00", "Octobre": "600.00", "Novembre": "320.00", "Décembre": "128.00"}
+		{"month": "Janvier", "value": "320.00"},
+		{"month": "Février", "value": "320.00"},
+		{"month": "Mars", "value": "320.00"},
+		{"month": "Avril", "value": "320.00"},
+		{"month": "Mai", "value": "320.00"},
+		{"month": "Juin", "value": "320.00"},
+		{"month": "Juillet", "value": "320.00"},
+		{"month": "Août", "value": "320.00"},
+		{"month": "Septembre", "value": "320.00"},
+		{"month": "Octobre", "value": "320.00"},
+		{"month": "Novembre", "value": "320.00"},
+		{"month": "Décembre", "value": "320.00"},
 	]
 }
