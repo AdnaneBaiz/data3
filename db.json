@@ -19,6 +19,10 @@
 		{"month": "Décembre", "value": "320.00"}
 	],
 	"contracts": [
-		{"N2345", "N6789", "N3580", "E12345", "E1568"}
+		{"contrat": "N23453"},
+		{"contrat": "N67894"},
+		{"contrat": "E57486"},
+		{"contrat": "E12345"},
+		{"contrat": "E37488"}
 	]
 }
