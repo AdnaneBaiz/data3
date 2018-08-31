@@ -17,5 +17,8 @@
 		{"month": "Octobre", "value": "320.00"},
 		{"month": "Novembre", "value": "320.00"},
 		{"month": "Décembre", "value": "320.00"}
+	],
+	"contracts": [
+		{"N2345", "N6789", "N3580", "E12345", "E1568"}
 	]
 }
